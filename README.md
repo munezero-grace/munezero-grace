@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## :bar_chart: GitHub Insights
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=munezero-grace&show_icons=true&theme=tokyonight" alt="Montfort's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=munezero-grace&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=munezero-grace&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
+
+
